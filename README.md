@@ -1,10 +1,11 @@
-# Project-Laptop-Price-Predictor
-Machine Learning Project
+#### Project-Laptop-Price-Predictor
+## Machine Learning Project
 Prediction of the Price of the Laptop based on the Configuration.
 It is a regression problem statement.
 The project has a very rich space for Feature Engineering.
 EDA portion is showcased properly.
 The best suited Algorithm here, is Random Forest with an Accuracy of nearly 90%.
+Deployed on Heroku platform.
 
 ## Basic Questions
 Q. Prediction of Price of the laptop based on the configuration and other features.
